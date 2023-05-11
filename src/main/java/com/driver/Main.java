@@ -7,8 +7,8 @@ public class Main {
 //        String res = obj.meth();
 //        System.out.println(res);
 
-        String res1 = obj.meth();
-        System.out.println(res1);
+
+        System.out.println(obj.meth());
     }
 
 }
